@@ -1,4 +1,3 @@
-//init
 package ro.sapientia.furniture.model;
 
 import java.io.Serializable;
